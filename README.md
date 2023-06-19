@@ -1,5 +1,4 @@
-## 🚀 Performance comparision betweeen sync and async approach
-
+## 🚀 Performance comparison between sync and async approach
 ## 📝 Results
 *For 10 runs: GET request on a local server*
 #### Sync
